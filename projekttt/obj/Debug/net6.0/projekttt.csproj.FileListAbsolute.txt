@@ -1,0 +1,15 @@
+C:\Users\Michal\source\repos\projektt\projekttt\bin\Debug\net6.0\projekttt.exe
+C:\Users\Michal\source\repos\projektt\projekttt\bin\Debug\net6.0\projekttt.deps.json
+C:\Users\Michal\source\repos\projektt\projekttt\bin\Debug\net6.0\projekttt.runtimeconfig.json
+C:\Users\Michal\source\repos\projektt\projekttt\bin\Debug\net6.0\projekttt.dll
+C:\Users\Michal\source\repos\projektt\projekttt\bin\Debug\net6.0\projekttt.pdb
+C:\Users\Michal\source\repos\projektt\projekttt\obj\Debug\net6.0\projekttt.csproj.AssemblyReference.cache
+C:\Users\Michal\source\repos\projektt\projekttt\obj\Debug\net6.0\projekttt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\source\repos\projektt\projekttt\obj\Debug\net6.0\projekttt.AssemblyInfoInputs.cache
+C:\Users\Michal\source\repos\projektt\projekttt\obj\Debug\net6.0\projekttt.AssemblyInfo.cs
+C:\Users\Michal\source\repos\projektt\projekttt\obj\Debug\net6.0\projekttt.csproj.CoreCompileInputs.cache
+C:\Users\Michal\source\repos\projektt\projekttt\obj\Debug\net6.0\projekttt.dll
+C:\Users\Michal\source\repos\projektt\projekttt\obj\Debug\net6.0\refint\projekttt.dll
+C:\Users\Michal\source\repos\projektt\projekttt\obj\Debug\net6.0\projekttt.pdb
+C:\Users\Michal\source\repos\projektt\projekttt\obj\Debug\net6.0\projekttt.genruntimeconfig.cache
+C:\Users\Michal\source\repos\projektt\projekttt\obj\Debug\net6.0\ref\projekttt.dll
