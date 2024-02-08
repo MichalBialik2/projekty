@@ -1,0 +1,23 @@
+.header {
+    background: linear-gradient(135deg, $primaryColor, $secondaryColor);
+    color: white;
+    padding: 20px 0;
+    img {
+      display: block;
+      margin: 0 auto;
+      height: 80px;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+      a {
+        margin: 0 15px;
+        color: white;
+        &:hover {
+          color: darken($linkColor, 20%);
+        }
+      }
+    }
+  }
+  
